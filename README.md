@@ -1,15 +1,15 @@
 # shiro
 
-后台管理页面采用 Vue + ElementUI 实现权限管理,采用自定义指令实现权限细粒度控制
+**后台管理页面采用 Vue + ElementUI 实现权限管理,采用自定义指令实现权限细粒度控制**
 
-shiro 权限管理 Vue + SpringBoot + Shiro 实现权限管理系统
+**shiro 权限管理 Vue + SpringBoot + Shiro 实现权限管理系统**
 
-1.执行 npm install
-2.执行 npm run dev
+**1.执行 npm install**
+**2.执行 npm run dev**
 
-后台代码地址(采用SpringBoot + Shiro + Mybatis 分页组件实现):
+**后台代码地址(采用SpringBoot + Shiro + Mybatis 分页组件实现):**
 
-https://github.com/BestCoderzzx/shiro-admin.git
+**https://github.com/BestCoderzzx/shiro-admin.git**
 
 **觉得对你有帮助 请点击 上方的 Start 星 让更多的人知道。你们的支持是我最大的动力**
 
@@ -17,6 +17,7 @@ https://github.com/BestCoderzzx/shiro-admin.git
 
 **视频地址: https://edu.csdn.net/course/detail/24806**
 
+**关注微信号 微笑码 获取海量IT资源,视频，分布式，高并发知识**
 
 ## 目录结构如下:
 
