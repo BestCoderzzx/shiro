@@ -11,11 +11,11 @@ shiro 权限管理 Vue + SpringBoot + Shiro 实现权限管理系统
 
 https://github.com/BestCoderzzx/shiro-admin.git
 
-觉得对你有帮助 请点击 上方的 Start 星 让更多的人知道。你们的支持是我最大的动力
+**觉得对你有帮助 请点击 上方的 Start 星 让更多的人知道。你们的支持是我最大的动力**
 
 最后谢大家，小编也录制了一套对应的视频教程 (价格不贵,有条件的同学支持一下)
 
-视频地址: https://edu.csdn.net/course/detail/24806
+**视频地址: https://edu.csdn.net/course/detail/24806**
 
 
 ## 目录结构如下:
